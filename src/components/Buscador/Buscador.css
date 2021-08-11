@@ -1,0 +1,108 @@
+.cnt {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #303236;
+    height:fit-content;
+    margin-top: 70px;
+    padding-top: 30px;
+    color: aliceblue;
+    background-image: url("C:\Users\USUARIO\Desktop\HENRY\FTM2\FT-M2\12-React-Redux\homework\src\pcorn far.jpg");
+    background-position-x:center ;
+    font-family:'Trebuchet MS'
+
+}
+
+.input{
+    width: 200px;
+    height: 20px;
+}
+
+.cardhead{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: black;
+    width: 100%;
+    color: black;
+}
+
+.cardname{
+    max-width: 190px;
+    margin-left: 5px;
+}
+
+.form-container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-bottom: 60px;    
+}
+
+.fcbutton {
+    /* display: flex;
+    margin-left: 20px;
+    height: 25px;
+    justify-content: center;
+    align-items: center; */
+    height: 25px;
+    display: inline-block;
+    margin-left: 20px;    
+    font-size: 12px;
+    cursor: pointer;
+    text-align: center;	
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: rgba(0, 153, 255, 0.979);
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px black;
+    cursor: pointer;
+}
+
+  .fcbutton:hover {background-color: rgba(6, 36, 117, 0.938)}
+  
+  
+.label {
+    padding-right: 10px;
+    height: 5px
+}
+.moviecard{ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 120px;
+    margin-bottom: 30px;
+    height: fit-content;
+    width: fit-content;
+    background-color: whitesmoke;
+    border: solid 1px white;
+    text-transform: uppercase;
+    font-family:'Trebuchet MS'
+
+}
+
+.btnfav{ 
+    width: 40px;
+    height: 20px;
+    margin-right: 5px;
+    color: blanchedalmond;
+    background-color: grey;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btnfav:active {
+    background-color: green;
+    box-shadow: 0 5px black;
+    transform: translateY(4px);
+  }
+.cardImage{
+    display: flex;
+    justify-content: flex-end;
+    width: 300px;
+    height: 425px;
+    background-color: gray;
+    
+}

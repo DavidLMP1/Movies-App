@@ -1,0 +1,41 @@
+.about{
+    display: flex;
+    margin-top: 70px;
+    padding-top: 10px;
+    justify-content: center;
+    background-image: url("C:\Users\USUARIO\Desktop\HENRY\FTM2\FT-M2\12-React-Redux\homework\src\pexels-cottonbro-3945321.jpg");
+    background-color:#303236;
+    background-size: 100vmax;    
+    background-position-x: center;
+    height: 100vh;
+    font-family:'Trebuchet MS' 
+}
+.cardabout{
+    margin-top: 500px;   
+    height: 200px;
+    width: 400px;
+    border-radius: 8px;
+    border: solid black 1px;
+    box-shadow: 0px 20px 30px 3px rgba(0, 0, 0, 0.55); 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* background-color: burlywood;  */
+    color: white;
+
+}
+
+.btnlogo{
+    background-color: transparent;
+    border: transparent;
+    cursor: pointer;
+}
+
+.link{
+    text-decoration: none;    
+    color: white;    
+}
+
+.btnlink{
+    width: 200px;
+}
