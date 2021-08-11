@@ -3,7 +3,7 @@
     display: flex;
     flex-direction: column;    
     align-items: center;
-    background-image: url("C:\Users\USUARIO\Desktop\HENRY\FTM2\FT-M2\12-React-Redux\homework\src\pexels-tima-miroshnichenko-7991225.jpg");
+    background-image: url("../../pexels-tima-miroshnichenko-7991225.jpg");
     background-color: #303236;
     background-position-x: center;
     height: 100vmax;

@@ -17,7 +17,7 @@
 }
 .ctnmovie{
     background-color: black;
-    background-image: url("C:\Users\USUARIO\Desktop\HENRY\FTM2\FT-M2\12-React-Redux\homework\src\pcorn close.jpg");
+    background-image: url("../../pcorn\ close.jpg");
     height: 100vh;
     background-position: center;
 }
